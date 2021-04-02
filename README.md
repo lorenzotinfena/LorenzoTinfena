@@ -5,3 +5,5 @@
 
 [instagram]: https://www.instagram.com/lorenzo.tinfena/
 [linkedin]: https://www.linkedin.com/in/lorenzotinfena/
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikxtr&show_icons=true&theme=tokyonight&locale=en" alt="nikxtr" /></p>
