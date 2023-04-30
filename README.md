@@ -4,8 +4,6 @@
 <br />
 ### Donations:
   - [PayPal](https://www.paypal.com/paypalme/lorenzotinfena)
-  - Ethereum (ERC20): 0x250d87b180a5fe469295b59bbde21322a308e5b1
-  - Bitcoin(BTC): 19BhphPVJSXzyjNy5kicuN29uYnLRbQ2GN
 
 
 
